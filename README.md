@@ -66,7 +66,7 @@ Now, follow these steps to start the application:
 
 Open a Command Prompt/Terminal and navigate to the backend project folder:
 
-    cd C:/Users/YOUR_USER_NAME/Desktop/Jostein Harrang - Fullstack developer case - Booking System - 24.07.2023/backend
+    cd C:/Users/YOUR_USER_NAME/Downloads/CalendarWebApp-main/CalendarWebApp-main/Jostein Harrang/backend
 
 Replace YOUR_USER_NAME with your username and adjust the path accordingly based on the project's location.
 
@@ -76,7 +76,7 @@ Start the Node.js server:
 
 Open another Command Prompt/Terminal and navigate to the frontend project folder called booking-system:
 
-    cd C:/Users/YOUR_USER_NAME/Desktop/Jostein Harrang - Fullstack developer case - Booking System - 24.07.2023/booking-system/
+    cd C:/Users/YOUR_USER_NAME/Downloads/CalendarWebApp-main/CalendarWebApp-main/Jostein Harrang/booking-system
 
 Start the React application:
 
