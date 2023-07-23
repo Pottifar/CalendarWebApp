@@ -6,6 +6,7 @@ following installed:
     Node.js
     React
     MySQL Server
+    MySQL Workbench or MySQL Shell
     Any browser (Google Chrome recommended)
 
 Navigate to the project folder named backend with Command Prompt/Terminal and type in:
