@@ -80,6 +80,7 @@ Open another Command Prompt/Terminal and navigate to the frontend project folder
 
 Start the React application:
 
+    npm install
     npm start
 
 The application should now open in your default web browser and be ready for you to use.
